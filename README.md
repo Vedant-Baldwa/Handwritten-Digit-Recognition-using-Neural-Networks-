@@ -1,9 +1,5 @@
 # Handwritten Digit Recognition using Deep Learning
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-
 ## 📌 Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to accurately recognize handwritten digits (0–9) from a large custom dataset of over **107,000 images**.
