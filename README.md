@@ -6,11 +6,6 @@ This project implements a **Convolutional Neural Network (CNN)** to accurately r
 
 Unlike traditional MNIST-based solutions, this project uses a **custom dataset** with PNG images, providing a more robust and scalable approach.
 
-👉 **Current model accuracy:**  
-✅ **100% accuracy** on an independent test set (~21,500 images)  
-✅ **Perfect confusion matrix**  
-✅ Robust to variations in handwriting
-
 ---
 
 ## 🚀 Features
