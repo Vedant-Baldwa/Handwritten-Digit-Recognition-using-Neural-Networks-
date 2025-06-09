@@ -109,13 +109,3 @@ Contributions are welcome! If you’d like to add features (data augmentation, w
 This project is licensed under the MIT License.
 
 ---
-
-## ⭐ Acknowledgements
-
-Special thanks to the authors of the custom dataset and the TensorFlow community.
-
----
-
-## 🚀 Live Demo (Coming Soon!)
-
-👉 [View the live app here](#) — coming soon!
