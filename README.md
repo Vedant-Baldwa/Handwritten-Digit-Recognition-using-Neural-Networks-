@@ -60,6 +60,9 @@ Unlike traditional MNIST-based solutions, this project uses a **custom dataset**
 - **Training Accuracy:** 100%
 - **Test Accuracy:** 100%
 - **Confusion Matrix:** Perfect (no misclassifications)
+![plots](https://github.com/Vedant-Baldwa/Handwritten-Digit-Recognition-using-Neural-Networks-/blob/9e2fe5594e14b55221a6fa503a689453577b24c0/results/graph.png)
+![Confusion Matrix](https://github.com/Vedant-Baldwa/Handwritten-Digit-Recognition-using-Neural-Networks-/blob/9e2fe5594e14b55221a6fa503a689453577b24c0/results/Confusion%20Matrix.png)
+![Prediction](![plots](https://github.com/Vedant-Baldwa/Handwritten-Digit-Recognition-using-Neural-Networks-/blob/9e2fe5594e14b55221a6fa503a689453577b24c0/results/Prediction.png)
 
 ---
 
